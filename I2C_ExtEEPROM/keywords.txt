@@ -1,0 +1,14 @@
+# REV = 0.1
+
+I2C_ExtEEPROM	KEYWORD1
+floatUpdate	KEYWORD2
+floatRead	KEYWORD2
+stringWrite	KEYWORD2
+byteWrite	KEYWORD2
+stringRead	KEYWORD2
+byteRead	KEYWORD2
+stringUpdate	KEYWORD2
+byteUpdate	KEYWORD2
+length	KEYWORD2
+formatter	KEYWORD2
+begin	KEYWORD2
