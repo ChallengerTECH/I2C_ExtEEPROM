@@ -10,6 +10,8 @@
    
   created 4 July 2020
   by Ali M.
+  ali.challenger89@yahoo.com
+  https://github.com/ChallengerTECH/I2C_ExtEEPROM
  ***/
  
  
